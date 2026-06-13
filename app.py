@@ -482,3 +482,4 @@ if not df.empty:
         file_name="energy_usage_report.csv",
         mime="text/csv"
     )
+    # ...
