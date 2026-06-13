@@ -353,26 +353,7 @@ Carbon Emission: 0.80 kg
 
 ---
 
-# 📸 Screenshots
 
-Add screenshots in:
-
-```text
-assets/screenshots/
-```
-
-Recommended screenshots:
-
-- Dashboard Home
-- Appliance Analytics
-- Power Trend Graph
-- Cost Trend Graph
-- Carbon Footprint Section
-- Bill Prediction Section
-- Consumption History
-- CSV Export
-
----
 
 # 🌍 Real-World Applications
 
